@@ -1,24 +1,27 @@
-#
 # Hola, mi nombre es Marcelo Vásquez 👋
-### 
+
+### Freelance web developer
 
 <a href="https://github.com/sponsors/M0nica"><img align="right" width="250" height="250" src="https://github.com/Marcelostg/Marcelostg/blob/main/octocat-me.gif?raw=true"></a>
 
-### Soy desarrollador de software con mas de 7 años de experiencia en aplicaciones empresariales, actualmente transicionando al rol de desarrollador web fullstack con varios proyectos como freelance.
+Soy desarrollador de software con mas de 7 años de experiencia en aplicaciones empresariales, actualmente transicionando al rol de desarrollador web fullstack con varios proyectos como freelance.
 
-### Lenguajes y/o tecnologias utilizadas:
+### Tecnologias que utilizo:
 
-![Texto simple Javascript con color (hexadecimal)](https://img.shields.io/badge/Javascript-F7DF1E.svg)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/Javascript-gray.svg?logo=javascript)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/HTML-gray.svg?logo=html5)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/CSS-gray.svg?logo=css)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/Typescript-gray.svg?logo=typescript)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/sqlite-gray.svg?logo=sqlite)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/Node.js-gray.svg?logo=nodedotjs)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/json-gray.svg?logo=json)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/Python-gray.svg?logo=python)
 
-![Texto doble Javascript con color (hexadecimal) y logo](https://img.shields.io/badge/Lenguaje-Javascript-F7DF1E.svg)
+Próximamente...
 
-![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/Lenguaje-Javascript-F7DF1E.svg?logo=javascript)
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/React-gray.svg?logo=react)
 
-[![Licencia MIT con enlace](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-[![Licencia GRANDE MIT con enlace](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-![GitHub language con logo](https://img.shields.io/github/languages/count/marcelostg/marcelostg?style=for-the-badge&logo=javascript)
+ 
 
 <!--
 
