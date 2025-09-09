@@ -1,9 +1,28 @@
 #
-# Hola, soy Marcelo Vásquez 👋
+# Hola, mi nombre es Marcelo Vásquez 👋
+### 
 
+<a href="https://github.com/sponsors/M0nica"><img align="right" width="250" height="250" src="https://github.com/Marcelostg/Marcelostg/blob/main/octocat-me.gif?raw=true"></a>
 
+### Soy desarrollador de software con mas de 7 años de experiencia en aplicaciones empresariales, actualmente transicionando al rol de desarrollador web fullstack con varios proyectos como freelance.
 
-# Formato de texto
+### Lenguajes y/o tecnologias utilizadas:
+
+![Texto simple Javascript con color (hexadecimal)](https://img.shields.io/badge/Javascript-F7DF1E.svg)
+
+![Texto doble Javascript con color (hexadecimal) y logo](https://img.shields.io/badge/Lenguaje-Javascript-F7DF1E.svg)
+
+![Texto doble Javascript con color (hexadecimal)](https://img.shields.io/badge/Lenguaje-Javascript-F7DF1E.svg?logo=javascript)
+
+[![Licencia MIT con enlace](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[![Licencia GRANDE MIT con enlace](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+![GitHub language con logo](https://img.shields.io/github/languages/count/marcelostg/marcelostg?style=for-the-badge&logo=javascript)
+
+<!--
+
+### Formato de texto
 
 *Texto en cursiva* o _Texto en cursiva_
 **Texto en negrita** o __Texto en negrita__
