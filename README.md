@@ -2,7 +2,7 @@
 
 ### Freelance web developer
 
-<a href="https://github.com/sponsors/M0nica"><img align="right" width="250" height="250" src="https://github.com/Marcelostg/Marcelostg/blob/main/octocat-me.gif?raw=true"></a>
+<a href="https://github.com/sponsors/Marcelostg"><img align="right" width="250" height="250" src="https://github.com/Marcelostg/Marcelostg/blob/main/octocat-me.gif?raw=true"></a>
 
 Soy desarrollador de software con mas de 7 años de experiencia en aplicaciones empresariales, actualmente transicionando al rol de desarrollador web fullstack con varios proyectos como freelance.
 
